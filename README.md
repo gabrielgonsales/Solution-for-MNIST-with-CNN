@@ -1,5 +1,4 @@
-MNIST – VISÃO COMPUTACIONAL E CÂMERA 
-DRIVELESS
+MNIST – VISÃO COMPUTACIONAL E CÂMERA - DRIVELESS
 
 Cada item a seguir é enumerado conforme a sequência do código no arquivo ipynb.
 
