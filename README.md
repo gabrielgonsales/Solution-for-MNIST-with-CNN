@@ -4,7 +4,7 @@ Cada item a seguir é enumerado conforme a sequência do código no arquivo ipyn
 
 1) Importação da biblioteca do TensorFlow e verificada sua versão. 
 2) Importação do Data Set com todos os dígitos e sua descompactação.
-3) Antes de realizar a normalização dos dados no passo 4, eu achei interessantes visualizar os dados do tensor e da imagem de um elemento do banco de dados para verificar se o código estava funcionando. Para a plotagem do tensor foi utilizado o comando print. Para a visualização da imagem foi utilizado o comando plt.show da biblioteca do matplotlib.
+3) Antes de realizar a normalização dos dados no passo 4, eu achei interessante visualizar os dados do tensor e da imagem de um elemento do banco de dados para verificar se o código estava funcionando. Para a plotagem do tensor foi utilizado o comando print. Para a visualização da imagem foi utilizado o comando plt.show da biblioteca do matplotlib.
 4) Normalização dos dados. A normalização acontece para facilitar, simplificar e otimizar o processamento da rede neural.
 5) Plotagem dos dados já citados no item 3 após a normalização.
 6) Desenvolvimento do modelo
