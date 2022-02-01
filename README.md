@@ -21,3 +21,5 @@ Ademais, para o argumento loss, a utilização do sparse_categorical_crossentrop
 10) Realização da prediction. O novo modelo de previsão retorna one-hot arrays, que são distribuições de densidade de probabilidade. Assim, faz-se necessário o uso da biblioteca NumPy para visualizar os dados da prediction.
 11) Utilização da biblioteca NumPy.
 12) Vizualização da prediction.
+
+FIM
